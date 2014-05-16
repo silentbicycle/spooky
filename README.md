@@ -10,7 +10,7 @@ If you're making a sensor network for a home automation project (for
 example), this will encode and decode the raw radio data with
 [Manchester coding] to help distinguish from radio noise, and help the
 receiver to automatically detect the signal's baud rate
-(["clock recovery"]).
+("[clock recovery]").
 
 [Manchester coding]: http://en.wikipedia.org/wiki/Manchester_code
 [clock recovery]: http://en.wikipedia.org/wiki/Clock_recovery
