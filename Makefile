@@ -19,6 +19,9 @@ test_spooky.c: greatest.h
 spooky_encoder.o: spooky_encoder.h
 spooky_decoder.o: spooky_decoder.h
 
+test: test_spooky
+	./test_spooky
+
 tags:
 	etags *.[ch]
 
