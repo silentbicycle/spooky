@@ -1,0 +1,11 @@
+*.o
+*.dSYM
+test_spooky
+*.hex
+*.lst
+*.eep
+*.elf
+*.lss
+*.map
+*.sym
+.dep
