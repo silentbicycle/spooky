@@ -32,6 +32,10 @@ For further usage details, see `spooky_decoder.h` and
 
 To build the tests, run `make test_spooky`.
 
+Also, I wrote a [blog post] about the project that motivated this.
+
+[blog post]: http://spin.atomicobject.com/2014/05/16/radio-system-from-scratch/
+
 ## `example/` contains two example projects, for Arduinos
 
 The example projects should use amateur-band, ASK/OOK radio transmitters
